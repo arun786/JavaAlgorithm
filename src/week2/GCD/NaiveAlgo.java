@@ -1,4 +1,4 @@
-package week2.FibonacciSeries.GCD;
+package week2.GCD;
 
 import java.math.BigInteger;
 

@@ -1,4 +1,4 @@
-package week2.FibonacciSeries;
+package week2.Fibonacci;
 
 import java.math.BigInteger;
 

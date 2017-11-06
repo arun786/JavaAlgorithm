@@ -1,4 +1,4 @@
-package week2.FibonacciSeries.GCD;
+package week2.GCD;
 
 public class EfficientAlgo {
     public static void main(String[] args) {
