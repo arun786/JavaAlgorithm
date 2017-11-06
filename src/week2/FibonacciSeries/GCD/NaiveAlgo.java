@@ -5,7 +5,10 @@ import java.math.BigInteger;
 public class NaiveAlgo {
 
     public static void main(String[] args) {
-        System.out.println(NaiveGCD(5, 20));
+        long start = System.currentTimeMillis();
+        System.out.println(NaiveGCD(578986, 267896));
+        long end = System.currentTimeMillis();
+        System.out.println("time taken " + (end - start) + " ms"); //31 ms
     }
 
     static Integer NaiveGCD(Integer num1, Integer num2) {
