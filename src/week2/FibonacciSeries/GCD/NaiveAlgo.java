@@ -6,7 +6,7 @@ public class NaiveAlgo {
 
     public static void main(String[] args) {
         long start = System.currentTimeMillis();
-        System.out.println(NaiveGCD(578986, 267896));
+        System.out.println(NaiveGCD(578986, 267896)); //2
         long end = System.currentTimeMillis();
         System.out.println("time taken " + (end - start) + " ms"); //31 ms
     }
